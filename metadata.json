@@ -1,0 +1,6 @@
+{
+  "name": "Veterinaria Mascotas - Sistema de Gestión",
+  "description": "Sistema integral de punto de venta, control de stock, caja diaria con apertura y cierre, cuentas corrientes y copias de seguridad para Veterinaria Mascotas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
